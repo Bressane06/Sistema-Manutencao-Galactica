@@ -1,0 +1,38 @@
+# Arquivos de configuração e execução
+*.cmd
+*.log
+*.cfg
+
+# Executáveis
+simulador
+*.exe
+*.out
+a.out
+
+# Arquivos de compilação
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Arquivos temporários
+*~
+*.tmp
+*.swp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de debug
+*.dSYM/
+core
+vgcore.*
+*.json
